@@ -34,7 +34,7 @@ def usage():
     print("+---------------+")
     print("")
     print("\033[1;36m     python2 cc-genpro.py -b     [Opciones de uso]")
-    print("     python2 cc-genpro.py -h     Mensaje de ayuda")
+    print("     python2 cc-gen-pro.py -h     Mensaje de ayuda")
     print("\033[1;31m")
     print("+-----------------+")
     print("+\033[;32m Opciones de uso\033[1;31m +")
